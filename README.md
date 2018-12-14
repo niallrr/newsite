@@ -1,2 +1,0 @@
-# newsite
-Created with CodeSandbox
